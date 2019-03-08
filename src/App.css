@@ -1,0 +1,58 @@
+ 
+
+#map  {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+}
+
+.buttonContainer{
+     display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: center;
+	align-items: center;
+    align-content: center;
+}
+.zoomButton{
+    position: relative;
+    display: inline-block;
+    width: 200px;
+    height: 100px;
+    color: purple;
+    text-align: center;
+    line-height: 100px;
+    font-size: 3em;
+    border: 5px solid transparent;  
+    transition: all 0.3s ease;
+    margin: 5px;
+}
+
+#zoomButtonOut :hover{
+    border: 5px solid red !important;
+}
+
+#zoomButtonIn :hover{
+    border: 5px solid red !important;
+}
+
+.fade-in-animation {
+    animation-name: fadeIn;
+    animation-duration: .5s;
+    animation-timing-function: ease-in;
+    
+}
+
+@keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+.overlayview_container{
+    -webkit-clip-path: polygon(20px 0, 100% 0, 100% calc(100% - 20px), calc(100% - 20px) 100%, 0 100%, 0 20px);
+    clip-path: polygon(20px 0, 100% 0, 100% calc(100% - 20px), calc(100% - 20px) 100%, 0 100%, 0 20px);
+}

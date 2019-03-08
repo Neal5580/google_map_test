@@ -1,0 +1,437 @@
+[
+    {
+        "latitude": -37.886277,
+        "longitude": 145.08295,
+        "desc": "CHADSTONE"
+    },
+    {
+        "latitude": -35.280937,
+        "longitude": 149.130009,
+        "desc": "canberra"
+    },
+    {
+        "latitude": -25.288154,
+        "longitude": 152.767663,
+        "desc": "hervey bay"
+    },
+    {
+        "latitude": -34.641667,
+        "longitude": 148.025,
+        "desc": "cootamundra"
+    },
+    {
+        "latitude": -36.546218,
+        "longitude": 145.963353,
+        "desc": "benalla"
+    },
+    {
+        "latitude": -36.383333,
+        "longitude": 145.4,
+        "desc": "shepparton"
+    },
+    {
+        "latitude": -38.680564,
+        "longitude": 143.391618,
+        "desc": "great ocean road"
+    },
+    {
+        "latitude": -31.092748,
+        "longitude": 150.932033,
+        "desc": "tamworth"
+    },
+    {
+        "latitude": -26.682,
+        "longitude": 153.118,
+        "desc": "sunshine coast mooloolaba"
+    },
+    {
+        "latitude": -30.298612,
+        "longitude": 153.109392,
+        "desc": "coofs harbour"
+    },
+    {
+        "latitude": -33.955,
+        "longitude": 115.075,
+        "desc": "margaret river region"
+    },
+    {
+        "latitude": -9.64571,
+        "longitude": 160.156194,
+        "desc": "solomon islands"
+    },
+    {
+        "latitude": -38.285405,
+        "longitude": 145.093449,
+        "desc": "mornington peninsula"
+    },
+    {
+        "latitude": -34.208017,
+        "longitude": 142.124554,
+        "desc": "mildura"
+    },
+    {
+        "latitude": -27.102417,
+        "longitude": 150.211075,
+        "desc": "western downs"
+    },
+    {
+        "latitude": -35.339632,
+        "longitude": 143.55248,
+        "desc": "swan hill"
+    },
+    {
+        "latitude": -38.508758,
+        "longitude": 145.535815,
+        "desc": "bass coast"
+    },
+    {
+        "latitude": -35.108169,
+        "longitude": 147.359832,
+        "desc": "wagga wagga"
+    },
+    {
+        "latitude": -26.799,
+        "longitude": 153.133,
+        "desc": "sunshine coast caloundra"
+    },
+    {
+        "latitude": -27.394214,
+        "longitude": 153.12183,
+        "desc": "brisbane airport"
+    },
+    {
+        "latitude": -34.723996,
+        "longitude": 135.86115,
+        "desc": "port lincoln"
+    },
+    {
+        "latitude": -27.559821,
+        "longitude": 151.95067,
+        "desc": "toowoomba"
+    },
+    {
+        "latitude": -12.46344,
+        "longitude": 130.845642,
+        "desc": "darwin"
+    },
+    {
+        "latitude": -15.376706,
+        "longitude": 166.959158,
+        "desc": "vanuatu"
+    },
+    {
+        "latitude": -35.966667,
+        "longitude": 145.65,
+        "desc": "cobram barooga"
+    },
+    {
+        "latitude": -36.027113,
+        "longitude": 145.999058,
+        "desc": "yarrawonga mulwala"
+    },
+    {
+        "latitude": -36.086153,
+        "longitude": 145.456498,
+        "desc": "lakeside country club"
+    },
+    {
+        "latitude": -32.231502,
+        "longitude": 148.632965,
+        "desc": "dubbo"
+    },
+    {
+        "latitude": -36.757016,
+        "longitude": 144.279391,
+        "desc": "bendigo"
+    },
+    {
+        "latitude": -37.828421,
+        "longitude": 140.780353,
+        "desc": "mount gambier"
+    },
+    {
+        "latitude": -36.158342,
+        "longitude": 146.898594,
+        "desc": "albury wodonga"
+    },
+    {
+        "latitude": -37.210882,
+        "longitude": 142.397957,
+        "desc": "grampains & goldfields"
+    },
+    {
+        "latitude": -38.368678,
+        "longitude": 142.498209,
+        "desc": "warrnambool"
+    },
+    {
+        "latitude": -38.360895,
+        "longitude": 141.604116,
+        "desc": "portland"
+    },
+    {
+        "latitude": -37.562159,
+        "longitude": 143.850256,
+        "desc": "ballarat"
+    },
+    {
+        "latitude": -38.0,
+        "longitude": 147.65,
+        "desc": "gippsland lakes"
+    },
+    {
+        "latitude": -41.433221,
+        "longitude": 147.144088,
+        "desc": "launceston"
+    },
+    {
+        "latitude": -42.882138,
+        "longitude": 147.327195,
+        "desc": "hobart"
+    },
+    {
+        "latitude": -42.882138,
+        "longitude": 147.327195,
+        "desc": "western riverina"
+    },
+    {
+        "latitude": -21.236736,
+        "longitude": -159.777671,
+        "desc": "cook islands"
+    },
+    {
+        "latitude": -17.961434,
+        "longitude": 122.235852,
+        "desc": "broome"
+    },
+    {
+        "latitude": -37.072143,
+        "longitude": 149.910387,
+        "desc": "sapphire coast"
+    },
+    {
+        "latitude": -13.759029,
+        "longitude": -172.104629,
+        "desc": "samao"
+    },
+    {
+        "latitude": -26.799,
+        "longitude": 153.133,
+        "desc": "sunshine coast caloundra"
+    },
+    {
+        "latitude": -36.086153,
+        "longitude": 145.456498,
+        "desc": "lakeside country club numurkah"
+    },
+    {
+        "latitude": -17.961434,
+        "longitude": 122.235852,
+        "desc": "broome cps"
+    },
+    {
+        "latitude": -9.474256,
+        "longitude": 147.159929,
+        "desc": "port moresby"
+    },
+    {
+        "latitude": -15.791479,
+        "longitude": 128.720911,
+        "desc": "kununurra caravan park"
+    },
+    {
+        "latitude": -35.02753,
+        "longitude": 117.883959,
+        "desc": "albany"
+    },
+    {
+        "latitude": -34.445032,
+        "longitude": 147.536098,
+        "desc": "temora"
+    },
+    {
+        "latitude": -35.714387,
+        "longitude": 150.179471,
+        "desc": "bateman's bay"
+    },
+    {
+        "latitude": -9.441016,
+        "longitude": 147.218273,
+        "desc": "touchscreen PNG"
+    },
+    {
+        "latitude": -20.263733,
+        "longitude": 148.715987,
+        "desc": "coral sea hotel"
+    },
+    {
+        "latitude": -9.478852,
+        "longitude": 147.150557,
+        "desc": "grand papua hotel australia"
+    },
+    {
+        "latitude": -9.445348,
+        "longitude": 147.182419,
+        "desc": "holiday inn port moresby"
+    },
+    {
+        "latitude": -9.445348,
+        "longitude": 147.182419,
+        "desc": "holiday inn express"
+    },
+    {
+        "latitude": -9.463299,
+        "longitude": 147.197384,
+        "desc": "paddy's hotel"
+    },
+    {
+        "latitude": -9.436185,
+        "longitude": 147.180265,
+        "desc": "dream inn"
+    },
+    {
+        "latitude": -6.314993,
+        "longitude": 143.95555,
+        "desc": "png executive traveller"
+    },
+    {
+        "latitude": -6.314993,
+        "longitude": 143.95555,
+        "desc": "Land of mystery"
+    },
+    {
+        "latitude": -9.478547,
+        "longitude": 147.151697,
+        "desc": "crowne plaza port moresby"
+    },
+    {
+        "latitude": -9.478547,
+        "longitude": 147.151697,
+        "desc": "crowne plaza port moresby"
+    },
+    {
+        "latitude": -33.419282,
+        "longitude": 149.577501,
+        "desc": "bathurst and orange"
+    },
+    {
+        "latitude": -34.3,
+        "longitude": 148.3,
+        "desc": "young"
+    },
+    {
+        "latitude": -32.25761,
+        "longitude": 148.587578,
+        "desc": "discovery parks dubbo"
+    },
+    {
+        "latitude": -20.2675,
+        "longitude": 148.716944,
+        "desc": "airlie beach"
+    },
+    {
+        "latitude": -35.13425,
+        "longitude": 139.300846,
+        "desc": "murray bridge marina"
+    },
+    {
+        "latitude": -28.777372,
+        "longitude": 114.614972,
+        "desc": "geraldton"
+    },
+    {
+        "latitude": -9.437643,
+        "longitude": 147.182505,
+        "desc": "the stanley hotel"
+    },
+    {
+        "latitude": -9.43164,
+        "longitude": 147.180203,
+        "desc": "laguna hotel"
+    },
+    {
+        "latitude": -9.44213,
+        "longitude": 147.180129,
+        "desc": "lamana hotel"
+    },
+    {
+        "latitude": -9.450459,
+        "longitude": 147.216486,
+        "desc": "airways residences"
+    },
+    {
+        "latitude": -20.725575,
+        "longitude": 139.492708,
+        "desc": "mount isa"
+    },
+    {
+        "latitude": -36.011287,
+        "longitude": 145.998411,
+        "desc": "yarrawonga holiday park"
+    },
+    {
+        "latitude": -23.698042,
+        "longitude": 133.880747,
+        "desc": "alice springs"
+    },
+    {
+        "latitude": -35.924481,
+        "longitude": 145.630628,
+        "desc": "cobram caravan parks"
+    },
+    {
+        "latitude": -34.310025,
+        "longitude": 148.302971,
+        "desc": "young tourist park"
+    },
+    {
+        "latitude": -31.253218,
+        "longitude": 146.921099,
+        "desc": "north west nsw"
+    },
+    {
+        "latitude": -36.007703,
+        "longitude": 146.381638,
+        "desc": "corowa caravan park"
+    },
+    {
+        "latitude": -35.120026,
+        "longitude": 147.389509,
+        "desc": "big 4 wagga wagga"
+    },
+    {
+        "latitude": -15.778541,
+        "longitude": 128.741685,
+        "desc": "kununurra"
+    },
+    {
+        "latitude": -6.314993,
+        "longitude": 143.95555,
+        "desc": "png executive traveller"
+    },
+    {
+        "latitude": -6.731264,
+        "longitude": 147.006592,
+        "desc": "lae international hotel"
+    },
+    {
+        "latitude": -23.379077,
+        "longitude": 150.510016,
+        "desc": "rockhampton"
+    },
+    {
+        "latitude": -30.090265,
+        "longitude": 145.936028,
+        "desc": "remote outback nsw"
+    },
+    {
+        "latitude": -24.161381,
+        "longitude": 151.885207,
+        "desc": "seventeen sevenity"
+    },
+    {
+        "latitude": -17.733251,
+        "longitude": 168.327325,
+        "desc": "vanuatu port villa"
+    }
+]
